@@ -6,3 +6,4 @@ git init
 git add -A
 git commit -m 'update book'
 git push -f git@github.com:vuejs-templates/pwa.git master:gh-pages
+git push -f git@github.com:vuejs-templates/pwa.git master:gh-pages-fix
